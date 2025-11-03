@@ -9,7 +9,7 @@ b = 3
 c = 3
 
 print(a + b + c)
-
+print("vasile")
 print(a)
 
 if a == 5: 
